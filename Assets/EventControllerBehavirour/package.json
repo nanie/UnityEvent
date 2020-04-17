@@ -1,0 +1,19 @@
+{
+  "name": "com.vrglass.eventcontroller",
+  "version": "1.0.0",
+  "displayName": "Event Controller",
+  "description": "This is an example package",
+  "author": {
+    "name": "Camilla Camatta",
+    "email": "camilla@vrglass.com",
+    "url": "https://www.vrglass.com"
+  },
+  
+  "samples": [
+   {
+     "displayName": "Sample Controllers",
+     "description": "Just a start",
+     "path": "Samples/SampleControllers"
+   }
+ ]
+}
